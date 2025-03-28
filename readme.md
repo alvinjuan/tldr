@@ -1,6 +1,6 @@
 # TL;DR
 
-This project is a web application for visualizing barbell plates and converting barbell weights between kilograms and pounds. Users have the option to input weights in either kilograms or pounds, or to manually enter the quantity of plates. Users can easily toggle between kg/lbs by choosing the option located at the top left corner of the website.
+TL;DR is a lightweight web application that streamlines the reading experience by leveraging AI to process and condense lengthy articles into quick, digestible summaries. Built with modern web technologies, it focuses on performance, responsiveness, and ease of use.
 
 ## Features
 
