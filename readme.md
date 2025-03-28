@@ -1,4 +1,4 @@
-# TL;DR
+# TL;DR 🤖
 
 TL;DR is a lightweight web application that streamlines the reading experience by leveraging AI to process and condense lengthy articles into quick, digestible summaries. Built with modern web technologies, it focuses on performance, responsiveness, and ease of use.
 
